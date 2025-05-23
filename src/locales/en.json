@@ -48,7 +48,7 @@
     "project": [
       {
         "title": "Angular Blog",
-        "image": "src/assets/projects/project1.png",
+        "image": "/assets/projects/project1.png",
         "url": "https://angular-blog-olive-five.vercel.app/",
         "description": "A blog platform developed with Angular 16, featuring functionalities to create, edit, and delete posts, along with basic user management.",
         "technologies": [
@@ -62,14 +62,14 @@
       },
       {
         "title": "React Gallery",
-        "image": "src/assets/projects/project2.png",
+        "image": "/assets/projects/project2.png",
         "url": "https://react-gallery-puce.vercel.app/",
         "description": "Image gallery developed in React that consumes the Neko API to dynamically display themed images, with search and auto-update features.",
         "technologies": ["React", "TypeScript", "Vite", "Neko API"]
       },
       {
         "title": "React Finance Manager",
-        "image": "src/assets/projects/project3.png",
+        "image": "/assets/projects/project3.png",
         "url": "https://react-finance-manager.vercel.app/",
         "description": "Personal finance management application developed with React and Vite, using JavaScript and CSS for styling. Allows adding, editing, and deleting financial transactions, as well as automatic balance calculations.",
         "technologies": [
@@ -83,7 +83,7 @@
       },
       {
         "title": "React To-Do List",
-        "image": "src/assets/projects/project4.png",
+        "image": "/assets/projects/project4.png",
         "url": "https://react-to-do-list-jade-seven.vercel.app/",
         "description": "A to-do list application developed with React and JavaScript, allowing users to add, mark as completed, and remove tasks with a simple and functional interface.",
         "technologies": ["React", "JavaScript", "CSS", "Hooks"]
