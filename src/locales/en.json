@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "name": "Lucas Vinicius",
+    "jobTitle": "Front-End Developer",
+    "description": "I’m a front-end developer passionate about building modern, functional, and responsive interfaces. I have experience with technologies like React, Angular, JavaScript, TypeScript, and SCSS, and I’m always looking to improve my skills to deliver the best possible user experience. Currently, I’m expanding my knowledge to also work with back-end development, aiming to become a well-rounded full stack professional ready to tackle any challenge in the web development world."
+  },
+  "about": {
+    "title1": "About",
+    "title2": "Me",
+    "description": "I’m a dedicated and curious front-end developer, passionate about building modern, functional, and well-structured interfaces. I mainly work with technologies like React, Angular, JavaScript, TypeScript, and SCSS, always aiming to deliver pleasant and intuitive user experiences. My journey started with a desire to understand how websites were made, and since then, I’ve been diving deeper into this universe. Currently, I’m expanding my skills into the back-end, learning technologies like Node.js, MongoDB, and PostgreSQL to become a more well-rounded developer. I enjoy working in teams, sharing knowledge, and tackling challenges that help me grow. Outside of coding, I like exploring new tools, learning new things, and keeping my projects moving forward."
+  },
+  "technologies": {
+    "title": "Technologies"
+  },
+  "experiences": {
+    "title": "Experience",
+    "experience": [
+      {
+        "year": "Nov 2024 - Mar 2025",
+        "role": "IT Technician",
+        "company": "Suntec Laser Technology",
+        "description": "Provided technical support and maintenance for servers and laser engraving machines. Performed fieldwork, remote support, and collaborated with multidisciplinary teams, including communication with international professionals.",
+        "technologies": [
+          "EzCad",
+          "Hans Laser",
+          "Windows Server",
+          "Hardware Maintenance"
+        ]
+      },
+      {
+        "year": "Jul 2024 - Sep 2024",
+        "role": "IT Support Analyst",
+        "company": "Inova Sistemas",
+        "description": "Handled technical issue resolution, hardware and software maintenance, and SQL query support. Worked collaboratively with the team focusing on continuous improvement and process optimization.",
+        "technologies": ["SQL", "Hardware", "Software", "IT", "Automation"]
+      },
+      {
+        "year": "May 2024 - Jun 2024",
+        "role": "Web Developer",
+        "company": "X Software House",
+        "description": "Developed an e-commerce platform using Bubble.io, emphasizing responsiveness, UX/UI, and process automation. Implemented features such as product registration, inventory management, cart, and payment integration.",
+        "technologies": ["Bubble.io", "UX/UI", "No-code", "Responsive Design"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "project": [
+      {
+        "title": "Angular Blog",
+        "image": "src/assets/projects/project1.png",
+        "url": "https://angular-blog-olive-five.vercel.app/",
+        "description": "A blog platform developed with Angular 16, featuring functionalities to create, edit, and delete posts, along with basic user management.",
+        "technologies": [
+          "Angular 16",
+          "TypeScript",
+          "RxJS",
+          "Angular Router",
+          "Services",
+          "HTTP Client"
+        ]
+      },
+      {
+        "title": "React Gallery",
+        "image": "src/assets/projects/project2.png",
+        "url": "https://react-gallery-puce.vercel.app/",
+        "description": "Image gallery developed in React that consumes the Neko API to dynamically display themed images, with search and auto-update features.",
+        "technologies": ["React", "TypeScript", "Vite", "Neko API"]
+      },
+      {
+        "title": "React Finance Manager",
+        "image": "src/assets/projects/project3.png",
+        "url": "https://react-finance-manager.vercel.app/",
+        "description": "Personal finance management application developed with React and Vite, using JavaScript and CSS for styling. Allows adding, editing, and deleting financial transactions, as well as automatic balance calculations.",
+        "technologies": [
+          "React",
+          "JavaScript",
+          "Vite",
+          "CSS",
+          "React Hooks",
+          "JSON Server"
+        ]
+      },
+      {
+        "title": "React To-Do List",
+        "image": "src/assets/projects/project4.png",
+        "url": "https://react-to-do-list-jade-seven.vercel.app/",
+        "description": "A to-do list application developed with React and JavaScript, allowing users to add, mark as completed, and remove tasks with a simple and functional interface.",
+        "technologies": ["React", "JavaScript", "CSS", "Hooks"]
+      }
+    ]
+  },
+  "contacts": {
+    "contact": "Get in Touch",
+    "cv": "Download CV",
+    "location": "Campinas - São Paulo",
+    "email": "lucasviniciusbermudes@gmail.com"
+  }
+}

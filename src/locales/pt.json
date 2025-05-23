@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "name": "Lucas Vinicius",
+    "jobTitle": "Desenvolvedor Front-End",
+    "description": "Sou um desenvolvedor front-end apaixonado por criar interfaces modernas, funcionais e responsivas. Tenho experiência com tecnologias como React, Angular, JavaScript, TypeScript e SCSS, e estou sempre em busca de aprimorar minhas habilidades para oferecer a melhor experiência possível ao usuário. Atualmente, estou ampliando meus conhecimentos para atuar também no desenvolvimento back-end, com o objetivo de me tornar um profissional full stack completo e preparado para enfrentar qualquer desafio no mundo do desenvolvimento web."
+  },
+  "about": {
+    "title1": "Sobre",
+    "title2": "Mim",
+    "description": "Sou um desenvolvedor front-end dedicado e curioso, apaixonado por criar interfaces modernas, funcionais e bem estruturadas. Trabalho principalmente com tecnologias como React, Angular, JavaScript, TypeScript e SCSS, sempre buscando entregar experiências de usuário agradáveis e intuitivas. Minha trajetória começou com o desejo de entender como os sites eram feitos e, desde então, venho me aprofundando cada vez mais nesse universo. Atualmente, estou expandindo meus conhecimentos para o back-end, aprendendo tecnologias como Node.js, MongoDB e PostgreSQL para me tornar um profissional mais completo. Gosto de trabalhar em equipe, trocar conhecimento e enfrentar desafios que me ajudem a evoluir. Fora do código, também curto explorar novas ferramentas, aprender coisas novas e manter meus projetos sempre em movimento."
+  },
+  "technologies": {
+    "title": "Tecnologias"
+  },
+  "experiences": {
+    "title": "Experiência",
+    "experience": [
+      {
+        "year": "Nov 2024 - Mar 2025",
+        "role": "Técnico de TI",
+        "company": "Suntec Laser Technology",
+        "description": "Atuei com suporte técnico e manutenção de servidores e máquinas de gravação a laser. Realizei trabalho em campo, suporte remoto e colaborei com equipes multidisciplinares, incluindo comunicação com profissionais estrangeiros.",
+        "technologies": [
+          "EzCad",
+          "Hans Laser",
+          "Windows Server",
+          "Manutenção de Hardware"
+        ]
+      },
+      {
+        "year": "Jul 2024 - Set 2024",
+        "role": "Analista de Suporte de TI",
+        "company": "Inova Sistemas",
+        "description": "Atuei na resolução de problemas técnicos, manutenção de hardware e software, e suporte com consultas SQL. Trabalhei em equipe focando em melhorias contínuas e otimização de processos.",
+        "technologies": ["SQL", "Hardware", "Software", "TI", "Automação"]
+      },
+      {
+        "year": "Mai 2024 - Jun 2024",
+        "role": "Desenvolvedor Web",
+        "company": "X Software House",
+        "description": "Desenvolvi uma plataforma de e-commerce usando Bubble.io, com foco em responsividade, UX/UI e automação de processos. Implementei recursos como cadastro de produtos, controle de estoque, carrinho e integração com pagamentos.",
+        "technologies": ["Bubble.io", "UX/UI", "No-code", "Design Responsivo"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projetos",
+    "project": [
+      {
+        "title": "Blog em Angular",
+        "image": "src/assets/projects/project1.png",
+        "url": "https://angular-blog-olive-five.vercel.app/",
+        "description": "Uma plataforma de blog desenvolvida em Angular 16, com funcionalidades para criar, editar e excluir posts, além de gerenciamento básico de usuários.",
+        "technologies": [
+          "Angular 16",
+          "TypeScript",
+          "RxJS",
+          "Angular Router",
+          "Services",
+          "HTTP Client"
+        ]
+      },
+      {
+        "title": "Galeria em React",
+        "image": "src/assets/projects/project2.png",
+        "url": "https://react-gallery-puce.vercel.app/",
+        "description": "Galeria de imagens desenvolvida em React que consome a Neko API para exibir imagens temáticas de forma dinâmica, com funcionalidades de busca e atualização automática.",
+        "technologies": ["React", "TypeScript", "Vite", "Neko API"]
+      },
+      {
+        "title": "Gerenciador Financeiro em React",
+        "image": "src/assets/projects/project3.png",
+        "url": "https://react-finance-manager.vercel.app/",
+        "description": "Aplicação de gerenciamento financeiro pessoal desenvolvida com React e Vite, utilizando JavaScript e CSS para estilização. Permite adicionar, editar e excluir transações financeiras, além de calcular saldos automaticamente.",
+        "technologies": [
+          "React",
+          "JavaScript",
+          "Vite",
+          "CSS",
+          "React Hooks",
+          "JSON Server"
+        ]
+      },
+      {
+        "title": "Lista de Tarefas React",
+        "image": "src/assets/projects/project4.png",
+        "url": "https://react-to-do-list-jade-seven.vercel.app/",
+        "description": "Aplicação de lista de tarefas desenvolvida com React e JavaScript, permitindo adicionar, marcar como concluída e remover tarefas, com interface simples e funcional.",
+        "technologies": ["React", "JavaScript", "CSS", "Hooks"]
+      }
+    ]
+  },
+  "contacts": {
+    "contact": "Entrar em Contato",
+    "cv": "Baixar CV",
+    "location": "Campinas - São Paulo",
+    "email": "lucasviniciusbermudes@gmail.com"
+  }
+}
