@@ -25,7 +25,7 @@ const Contact = () => {
         </motion.p>
 
         <motion.a
-          href="/assets/projects/CV_LucasVinicius.pdf"
+          href="/assets/CV_LucasVinicius.pdf"
           download
           whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: 100 }}
