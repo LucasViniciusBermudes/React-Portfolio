@@ -50,7 +50,7 @@ const Hero = () => {
               variants={container(1)}
               initial="hidden"
               animate="visible"
-              className="my-2 max-w-xl PY-6 font-light tracking-tighter pointer-events-none select-none"
+              className="my-2 max-w-xl PY-6 font-light tracking-tighter pointer-events-none select-none pb-5 md:pb-0"
             >
               {t("hero.description")}
             </motion.p>

@@ -37,7 +37,7 @@ const NavBar = () => {
   };
 
   return (
-    <nav className="mb-20 flex items-center justify-between py-6">
+    <nav className="mb-5  md:mb-20 flex items-center justify-between py-6">
       <div className="flex flex-shrink-0 items-center">
         <img
           className="mx-2 w-10 pointer-events-none select-none"
