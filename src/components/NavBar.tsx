@@ -7,11 +7,14 @@ import { useTranslation } from "react-i18next";
 import { GiBrazilFlag } from "react-icons/gi";
 import { LiaFlagUsaSolid } from "react-icons/lia";
 import { motion, AnimatePresence } from "framer-motion";
+import { IoMdDownload } from "react-icons/io";
 
 const NavBar = () => {
   const { i18n } = useTranslation();
   const [showLangDropdown, setShowLangDropdown] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
+
+  const { t } = useTranslation();
 
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
@@ -59,6 +62,19 @@ const NavBar = () => {
         >
           <FaGithub />
         </a>
+        <div className="relative group">
+          <a
+            href="/assets/CV_LucasVinicius.pdf"
+            download
+            rel="noopener noreferrer"
+            className="transition-transform duration-200 hover:scale-110 hover:text-blue-500"
+          >
+            <IoMdDownload />
+          </a>
+          <span className="absolute bottom-full mb-2 left-1/2 -translate-x-1/2 whitespace-nowrap rounded bg-neutral-800 px-2 py-1 text-sm text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+            {t("contacts.cv")}
+          </span>
+        </div>
         <div ref={dropdownRef} className="relative ml-4">
           <GoGlobe
             className="transition-transform duration-200 hover:scale-110 hover:text-green-500 cursor-pointer"
