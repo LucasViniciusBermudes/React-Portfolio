@@ -27,7 +27,7 @@ const Hero = () => {
 
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35">
-      <div className="flex flex-wrap">
+      <div className="flex flex-wrap lg:items-center">
         <div className="w-full lg:w-1/2">
           <div className="flex flex-col items-center lg:items-start">
             <motion.h1
@@ -50,14 +50,14 @@ const Hero = () => {
               variants={container(1)}
               initial="hidden"
               animate="visible"
-              className="my-2 max-w-xl PY-6 font-light tracking-tighter pointer-events-none select-none pb-5 md:pb-0"
+              className="my-2 max-w-xl PY-6 font-light tracking-tighter pointer-events-none select-none pb-5 lg:pb-0"
             >
               {t("hero.description")}
             </motion.p>
           </div>
         </div>
         <div className="w-full lg:w-1/2 lg:p-8 flex justify-center pointer-events-none select-none">
-          <div className="relative inline-block">
+          <div className="relative inline-block w-fit h-fit">
             <AnimatePresence>
               {showSpinner && (
                 <motion.div
