@@ -87,6 +87,13 @@
         "url": "https://react-to-do-list-jade-seven.vercel.app/",
         "description": "Aplicação de lista de tarefas desenvolvida com React e JavaScript, permitindo adicionar, marcar como concluída e remover tarefas, com interface simples e funcional.",
         "technologies": ["React", "JavaScript", "CSS", "Hooks"]
+      },
+      {
+        "title": "Landing Page Petshop em React",
+        "image": "/assets/projects/project5.png",
+        "url": "https://github.com/LucasViniciusBermudes/React-Petshop-LandingPage",
+        "description": "Uma landing page moderna e responsiva para um petshop, desenvolvida com React, TypeScript e Next.js. O layout destaca os serviços oferecidos, conta com animações suaves utilizando AOS e um design limpo com TailwindCSS.",
+        "technologies": ["React", "TypeScript", "TailwindCSS", "Next.js", "AOS"]
       }
     ]
   },
