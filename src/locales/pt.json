@@ -91,7 +91,7 @@
       {
         "title": "Landing Page Petshop em React",
         "image": "/assets/projects/project5.png",
-        "url": "https://github.com/LucasViniciusBermudes/React-Petshop-LandingPage",
+        "url": "https://react-petshop-landing-page.vercel.app/",
         "description": "Uma landing page moderna e responsiva para um petshop, desenvolvida com React, TypeScript e Next.js. O layout destaca os serviços oferecidos, conta com animações suaves utilizando AOS e um design limpo com TailwindCSS.",
         "technologies": ["React", "TypeScript", "TailwindCSS", "Next.js", "AOS"]
       }
